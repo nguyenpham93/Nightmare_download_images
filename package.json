@@ -1,0 +1,17 @@
+{
+  "name": "nightmare2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "bluevn",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.3.0",
+    "image-downloader": "^3.0.0",
+    "nightmare": "^2.10.0",
+    "nightmare-download-manager": "^0.2.4",
+    "path": "^0.12.7",
+    "pg-promise": "^5.6.4",
+    "shelljs": "^0.7.7",
+    "shortid": "^2.2.8"
+  }
+}
